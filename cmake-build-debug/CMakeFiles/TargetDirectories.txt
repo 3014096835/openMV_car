@@ -1,0 +1,3 @@
+D:/project/STM32project/stm32mx/openMV_car/cmake-build-debug/CMakeFiles/stm32mx.elf.dir
+D:/project/STM32project/stm32mx/openMV_car/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/project/STM32project/stm32mx/openMV_car/cmake-build-debug/CMakeFiles/rebuild_cache.dir
